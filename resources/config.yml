@@ -1,0 +1,46 @@
+# CONFIG PLUGIN BUYKEY
+
+# - Loại Key -
+
+Common: Key Common
+
+Uncommon: Key Uncommon
+
+Mythic: Key Mythic
+
+Legendary: Key Legendary
+
+# - Giá Key (Xu) -
+
+GiaCommon: 500000
+
+GiaUncommon: 1000000
+
+GiaMythic: 5000000
+
+GiaLegendary: 10000000
+
+# - Xác Nhận Mua Key -
+
+ButtonDongY: §aĐồng Ý
+
+ButtonTuChoi: §cTừ Chối
+
+# - Mua Thành Công -
+
+MuaThanhCongTitle: §l§6• §cMua Key Thành Công §6•
+
+MuaThanhCongContent: §aBạn đã mua thành công key này!
+
+MuaThanhCongSubmit: Xong
+
+# - Mua Thất Bại -
+
+MuaThatBaiTitle: §l§6• §cMua Key Thất Bại §6•
+
+MuaThatBaiContent: §cBạn không đủ tiền để mua key này!
+
+MuaThatBaiSubmit: Xong
+
+...
+
