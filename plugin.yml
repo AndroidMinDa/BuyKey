@@ -1,0 +1,13 @@
+name: BuyKey
+main: BuyKey\Main
+version: 1.0
+api: 3.0.0
+author: HQK(DarkWaterYT) AndroidMinDa
+depend:
+- EconomyAPI
+- PiggyCrate
+
+commands:
+  buykey:
+    aliases: ["muakey", "shopkey"]
+    description: Open Shop Key
